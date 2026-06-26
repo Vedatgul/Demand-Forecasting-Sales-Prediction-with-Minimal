@@ -1,4 +1,4 @@
-# Demand-Forecasting-Sales-Prediction-with-Minimal
+#  Demand-Forecasting-Sales-Prediction-with-Minimal
 
 <img width="756" height="562" alt="image" src="https://github.com/user-attachments/assets/5d5ab04d-9616-4d5b-beec-9f420781fe3a" />
 
